@@ -1,0 +1,48 @@
+body{
+  text-align:center;
+  margin:auto;
+  color:lightgrey;
+}
+h1{
+  color:black;
+}
+div{
+  width:auto;
+  padding:10px;
+  margin:5px;
+}
+button{
+  color:black;
+}
+a{
+  font-size:20px;
+  margin:0;
+  color:orange;
+}
+a:link, a:visited{
+  font-size:20px;
+  margin:0;
+  color:orange;
+  text-decoration:none;
+}
+a:hover, a:active{
+  font-size:20px;
+  color:white;
+  text-decoration:none; 
+}
+a:focus{
+  outline:none;
+}
+#control{
+  padding:10px;
+  background:orange;
+}
+#input{
+  color:black;
+  margin-bottom:5px;
+  padding:5px 50px 6px 5px;
+}
+#footer{
+  color:grey;
+}
+
